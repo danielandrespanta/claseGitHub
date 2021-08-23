@@ -1,0 +1,21 @@
+Daniel Padilla
+danielpadilla@outlook.com
+
+git status
+git add .
+git commit -m "inicio de git"
+git log     o git log --oneline
+
+git ckeckout 123jn2jg8 (vuelve)
+git branch (muestra rama)
+git branch develop
+git branch -l (muestra listado de ramas)
+
+git checkout develop (cambio a develop)
+
+git checkout master (para mershear)
+git merge develop
+git merge responsive
+
+ git branch deletegit 
+
